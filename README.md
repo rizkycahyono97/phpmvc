@@ -20,6 +20,7 @@ Follow the steps below to set up the application on your local machine or on a v
 First, clone this repository to your local machine in Apache or Nginx directory:
 
 ```bash
-git clone https://github.com/yourusername/phpmvc.git
+git clone https://github.com/rizkycahyono97/phpmvc.git
 cd phpmvc
+localhost/phpmvc/public/
 
