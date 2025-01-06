@@ -22,5 +22,5 @@ First, clone this repository to your local machine in Apache or Nginx directory:
 ```bash
 git clone https://github.com/rizkycahyono97/phpmvc.git
 cd phpmvc
-localhost/phpmvc/public/
+http://localhost/phpmvc/public/
 
