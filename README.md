@@ -13,7 +13,7 @@ Before you can run this application locally, ensure that you have the following 
   
 ## PHP MVC - Database Structure
 
-This repository uses a **MySQL database** named `phpmvc` to manage the application's data. Below is the structure of the primary table, `mahasiswa`.
+This repository uses a **MySQL database** named `phpmvc` to manage the application's data. Below is the structure of the primary table, `mahasiswa`, and you can import the database in `app/config/phpmvc.sql`.
 
 ### Database: `phpmvc`
 
